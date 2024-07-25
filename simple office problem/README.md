@@ -1,8 +1,6 @@
 
 # Simple Office Problem
-
-## Introduction
-This repository contains PDDL files and planners for solving a simple office domain problem. The office domain involves a robot that can move between waypoints, pick and place objects, and optionally interact with people.
+The office domain involves a robot that can move between waypoints, pick and place objects, and optionally interact with people.
 
 ## Table of Contents
 - [Files](#files)
@@ -31,8 +29,3 @@ To run the planners, use commands similar to:
 ./popf -o office_domain.pddl -f office_problem.pddl
 ```
 
-## License
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
-## Contributing
-Please read [CONTRIBUTING.md](CONTRIBUTING.md) for guidelines on how to contribute to this project.

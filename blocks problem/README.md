@@ -1,7 +1,6 @@
 # Blocks Problem
 
-## Introduction
-This repository contains PDDL files and planners for solving various block world problems. The block world domain involves a set of blocks that can be stacked on top of each other or placed on the table. The objective is to achieve specific configurations of these blocks using predefined actions.
+ The block world domain involves a set of blocks that can be stacked on top of each other or placed on the table. The objective is to achieve specific configurations of these blocks using predefined actions.
 
 ## Table of Contents
 - [Files](#files)
@@ -31,12 +30,6 @@ To run the planners, use commands similar to:
 ./Metric-FF -o blocks_domain.pddl -f blocks_problem1.pddl
 ./popf -o blocks_domain.pddl -f blocks_problem1.pddl
 ```
-
-## License
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
-## Contributing
-Please read [CONTRIBUTING.md](CONTRIBUTING.md) for guidelines on how to contribute to this project.
 
 
 
